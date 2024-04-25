@@ -6,7 +6,5 @@
 - NVIDIA GPU + CUDA CuDNN
 
 ```bash
-pip install torch
-pip install h5py
-pip install scikit-video
+pip install torch h5py scikit-video
 ```
